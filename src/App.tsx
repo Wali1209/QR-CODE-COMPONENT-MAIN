@@ -1,10 +1,13 @@
-import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import QRCodeComponent from "./components/QRCodeComponent";
-import "./App.css";
-
+import GlobalStyles from "./components/styles/Global.styled";
 function App() {
-  return <QRCodeComponent></QRCodeComponent>;
+  return (
+    <>
+      <GlobalStyles />
+      <QRCodeComponent></QRCodeComponent>
+    </>
+  );
 }
 
 export default App;
