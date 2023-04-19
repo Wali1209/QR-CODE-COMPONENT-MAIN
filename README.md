@@ -34,8 +34,8 @@ styled-components
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Wali1209/qr-code-component-main)
+- Live Site URL: [GitHub Pages](https://wali1209.github.io/qr-code-component-main/)
 
 ### Built with
 
@@ -57,6 +57,7 @@ And that's it!
 
 - Frontend Mentor - [@Wali1209](https://www.frontendmentor.io/profile/Wali1209)
 - Facebook - [Wali Hashmi](https://www.facebook.com/mdwali.hashmi.1/)
+- Twitter - [@MWali1209](https://twitter.com/MWali1209)
 - GitHUB - [@Wali1209](https://github.com/Wali1209)
 
 # QR-CODE-COMPONENT-MAIN
