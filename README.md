@@ -58,3 +58,7 @@ And that's it!
 - Frontend Mentor - [@Wali1209](https://www.frontendmentor.io/profile/Wali1209)
 - Facebook - [Wali Hashmi](https://www.facebook.com/mdwali.hashmi.1/)
 - GitHUB - [@Wali1209](https://github.com/Wali1209)
+
+# QR-CODE-COMPONENT-MAIN
+
+This is my first Front End Mentor REACT Project!
