@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <GlobalStyles />
-      <QRCodeComponent></QRCodeComponent>
+      <QRCodeComponent imgAlt="FrontEndMentorQRCode"></QRCodeComponent>
     </>
   );
 }
