@@ -82,7 +82,7 @@ Error generating stack: `+o.message+`
     opacity: 0.6;
     margin: 0 1rem 1.5rem;
   }
-`;function Lm(e){return Lt(Rm,{children:ja(Om,{children:[Lt("img",{src:"../../images/image-qr-code.png",alt:e.imgAlt}),Lt("h3",{children:"Improve your front-end skills by building projects"}),Lt("p",{children:"Scan the QR code to visit Frontend Mentor and take your coding skills to the next level"})]})})}const Am=Tm`
+`,Lm="/qr-code-component-main/assets/image-qr-code-c38c08d5.png";function Am(e){return Lt(Rm,{children:ja(Om,{children:[Lt("img",{src:Lm,alt:e.imgAlt}),Lt("h3",{children:"Improve your front-end skills by building projects"}),Lt("p",{children:"Scan the QR code to visit Frontend Mentor and take your coding skills to the next level"})]})})}const Im=Tm`
   @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
  /* // https://piccalil.li/blog/a-modern-css-reset */
@@ -165,4 +165,4 @@ select {
 }
 
 
-`;function Im(){return ja(Nd,{children:[Lt(Am,{}),Lt(Lm,{imgAlt:"FrontEndMentorQRCode"})]})}oi.createRoot(document.getElementById("root")).render(Lt(Bn.StrictMode,{children:Lt(Im,{})}));
+`;function Mm(){return ja(Nd,{children:[Lt(Im,{}),Lt(Am,{imgAlt:"FrontEndMentorQRCode"})]})}oi.createRoot(document.getElementById("root")).render(Lt(Bn.StrictMode,{children:Lt(Mm,{})}));
